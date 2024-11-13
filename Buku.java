@@ -58,6 +58,6 @@ public class Buku{
         System.out.println("Pengarangnya siapa : " +pengarang);
         System.out.println("Tahun Terbit berapa : " +tahunTerbit);
         System.out.println("ISBN apa : " +ISBN);
-        System.out.println("Status apa : " + status);
+        System.out.println("Statusnya : " + status);
     }
 }
